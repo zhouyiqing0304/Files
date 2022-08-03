@@ -1,0 +1,90 @@
+{
+    "spec_version": "v1.18",
+    "identifier": "what",
+    "name": "what",
+    "abstract": "what",
+    "author": [
+        "what"
+    ],
+    "version": "2022.08.03.04.02.05",
+    "ksp_version_min": "1.12.0",
+    "license": [
+        "unknown"
+    ],
+    "depends": [
+        {
+            "name": "CommunityResourcePack"
+        },
+        {
+            "name": "CryoTanks"
+        },
+        {
+            "name": "CryoTanks-Core"
+        },
+        {
+            "name": "GammaTextures"
+        },
+        {
+            "name": "Harmony2"
+        },
+        {
+            "name": "HazardTanksTextures"
+        },
+        {
+            "name": "KSPCommunityFixes"
+        },
+        {
+            "name": "MainSailorTextures-Essentials"
+        },
+        {
+            "name": "MainSailorTextures-Fairings"
+        },
+        {
+            "name": "MainSailorTextures-Historical"
+        },
+        {
+            "name": "MainSailorTextures-Theta"
+        },
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "ProceduralParts"
+        },
+        {
+            "name": "ProceduralParts-Textures-SaturnNova"
+        },
+        {
+            "name": "SimpleFuelSwitch"
+        },
+        {
+            "name": "ToadicusToolsContinued"
+        },
+        {
+            "name": "TweakableEverythingCont"
+        },
+        {
+            "name": "TweakScale"
+        },
+        {
+            "name": "TweakScale-Redist"
+        },
+        {
+            "name": "VensStylePPTextures"
+        },
+        {
+            "name": "WaterLaunchSites"
+        }
+    ],
+    "recommends": [
+        {
+            "name": "BreakingGround-DLC"
+        },
+        {
+            "name": "MakingHistory-DLC"
+        }
+    ],
+    "suggests": [],
+    "kind": "metapackage",
+    "release_date": "2022-08-03T12:02:05.7563175+08:00"
+}
